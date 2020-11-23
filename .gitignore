@@ -3,4 +3,4 @@
 
 .DS_Store
 
-src\config\firebase.js
+* firebaseConfig.js
